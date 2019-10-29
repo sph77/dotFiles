@@ -1,0 +1,12 @@
+alias hm='cd ~'
+alias nk='rm -rf'
+alias vimrc='vim ~/.vimrc'
+alias bashrc='vim ~/.bashrc'
+alias bprof='vim ~/.bash_profile'
+alias balias='vim ~/.bash_aliases'
+alias py3='python3'
+alias tmux='TERM=xterm-256color tmux'
+
+alias ..='cd ..'
+alias ...='cd ..; cd ..'
+alias ....='cd ..; cd ..; cd ..'
